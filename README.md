@@ -17,3 +17,6 @@ Analisis Perbandingan:
 4. Komputasi:
    - Roberts lebih cepat karena kernel kecil
    - Sobel lebih lambat tapi akurasi lebih baik
+
+
+![image](https://github.com/user-attachments/assets/7da3f793-6fc7-4760-a6a6-3cff5e5d9775)
